@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ataullah Rezai
-- 👀 I’m interested in full stack development and design
-- 🌱 I’m currently looking for job
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞 I’m interested in IT Management,Network Engineering, web development and designing, DataBase and Programing
+- 👀 I’m currently looking for job
 
 <!---
 Ataullahis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
